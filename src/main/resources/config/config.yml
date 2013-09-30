@@ -1,0 +1,15 @@
+#Configuration settings
+config:
+  #The character that is used to mark color codes
+  colour-code-char: ^
+  #The message that is sent to the player when the message is blocked
+  disallowed-message: ^cThat message is not allowed!
+#The list of messages
+messages:
+  1: 'Yes'
+  2: 'No'
+  3: Good Game
+  4: Look at this
+  y: 'Yes'
+  n: 'No'
+  gg: Good Game
